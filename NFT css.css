@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+
+.content {
+    background-color: hsl(216, 50%, 16%);
+    width: 20%;
+    margin: auto;
+    margin-top: 5rem;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    padding-bottom: 30px;
+    padding-right: 10px;
+    height: 450px;
+}
+
+.text {
+    margin: 20px;
+    margin-left: 40px;
+}
+
+.Equilibrium {
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+.avatar {
+    height: 20px;
+    border: 20px white;
+}
+
+.eth {
+    color:hsl(178, 100%, 50%);
+    font-weight: bold;
+}
+
+h6{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(160, 150, 150);;
+}
+.inline {
+    font-size: 15px;
+}
+
+.name {
+    color: hsl(0, 0%, 100%);
+}
+
+.clock {
+    font-size: x-small;
+    color: rgb(160, 150, 150);
+}
+h3 {
+    color: hsl(0, 0%, 100%);
+}
